@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33525790/README.md)
 # Vehicle Detection & Adaptive Traffic Signal Simulation Using MOG2
 
 A computer vision project that detects and tracks vehicles in traffic footage using **OpenCV's MOG2 background subtraction algorithm**. It also simulates adaptive green-light timing based on the cumulative number of detected vehicles.
