@@ -113,12 +113,3 @@ Estimated green time = min(60, int(15 + cumulative_vehicle_count × 2.5))
 - **Evaluation:** Detection and counting accuracy have not yet been documented with a labeled benchmark.
 
 Potential future improvements include more robust object tracking, lane-specific vehicle counts, quantitative evaluation, and adaptive timing based on real-time traffic density.
-
-## Project Context
-
-An academic computer vision project exploring traditional image-processing techniques for vehicle detection and traffic monitoring.
-
-## Author
-
-**Jozio Damaier Gidalti**  
-[GitHub](https://github.com/Jozioo)
